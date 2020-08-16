@@ -1,0 +1,4 @@
+rootProject.name = 'servlet-3'
+include 'servlet-core'
+include 'servlet-spring-mvc'
+
